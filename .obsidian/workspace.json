@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "97e42164a762c7c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "44ddc3d5431fc389",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c5f6942827a3ae3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Third-year/Fifth-term/Computer-Graphics/Lectures/Lecture-6-ClippingAlgorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46dccc7bf46ba0cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fc740703f0c031a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46c95a29fe687f21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39382a0cb970594c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1ddba7062999d4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "94da777f6d5e3fcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8789f6602e8f0278",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a4f852f1c066332",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Third-year/Fifth-term/Computer-Graphics/Lectures/Lecture-6-ClippingAlgorithms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff536a60e61b4e7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Third-year/Fifth-term/Computer-Graphics/Lectures/Lecture-6-ClippingAlgorithms.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2284b375eb76730",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "68359c0794d3c489",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Third-year/Fifth-term/Computer-Graphics/Lectures/Lecture-6-ClippingAlgorithms.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0c5f6942827a3ae3",
+  "lastOpenFiles": [
+    "Obsidian-Collage/Third-year/Fifth-term/Software-Engineering/images/unbalanced-DFD.png",
+    "Obsidian-Collage/Third-year/Fifth-term/Software-Engineering/images/multiplicity-arrows.png",
+    "Obsidian-Collage/Third-year/Fifth-term/Software-Engineering/images/balanced-DFD.png",
+    "Obsidian-Collage/Third-year/Fifth-term/Software-Engineering/Lectures/Lecture-6&7-UML.md",
+    "Obsidian-Collage/Third-year/Fifth-term/Software-Engineering/images",
+    "Obsidian-Collage/Third-year/Fifth-term/Software-Engineering/Lectures",
+    "Obsidian-Collage/Third-year/Fifth-term/Software-Engineering",
+    "Obsidian-Collage/Third-year/Fifth-term",
+    "Obsidian-Collage/Third-year",
+    "Obsidian-Collage/README.md",
+    "Obsidian-Collage",
+    "Third-year/Fifth-term/Computer-Graphics/Code/clipLine-algo1.py",
+    "Third-year/Fifth-term/Computer-Graphics/Lectures/Lecture-6-ClippingAlgorithms.md",
+    "Code/clipLine-algo1 1.cpp",
+    "Third-year/Fifth-term/Computer-Graphics/Code/clipLine-algo1 2.cpp",
+    "Code/clipLine-algo1.cpp",
+    "Untitled.md",
+    "Third-year/Fifth-term/Computer-Graphics/images/point.png",
+    "Third-year/Fifth-term/Computer-Graphics/images/2D-clipping.png",
+    "Clipping.md",
+    "README.md",
+    "Collage/Software-Engineering/images/unbalanced-DFD.png",
+    "Collage/Software-Engineering/images/multiplicity-arrows.png",
+    "Collage/Software-Engineering/images/balanced-DFD.png",
+    "Collage/Software-Engineering/Lectures/Lecture-6&7-UML.md",
+    "Collage/README.md",
+    "Third-year/Fifth-term/Software-Engineering/Lectures/Lecture-6&7-UML.md",
+    "Third-year/Fifth-term/Software-Engineering/images/unbalanced-DFD.png",
+    "Third-year/Fifth-term/Software-Engineering/images/multiplicity-arrows.png",
+    "Third-year/Fifth-term/Software-Engineering/images/balanced-DFD.png",
+    "Third-year/Fifth-term/README.md"
+  ]
+}
