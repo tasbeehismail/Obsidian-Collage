@@ -13,15 +13,15 @@
 	- Definition:
 		- Use case Diagram: .. from the "**user's**" point of view.
 			- Components:
-				- Actor: external model entities, plays a role in interactions with system. ==-> Default Notation Stickman, or icon for non-humans==.
-				- Use case: sequence of related actions, functionality that is complete from beginning to end. ==-> horizontal ellipsis, the name inside or underneath oval==.
-				- System boundary(optional): ==-> rectangle==
-				- Associations: ==-> solid line==
+				- Actor: external model entities, plays a role in interactions with system. <mark style="background-color: #FFFF00">-> Default Notation Stickman, or icon for non-humans</mark>.
+				- Use case: sequence of related actions, functionality that is complete from beginning to end. <mark>-> horizontal ellipsis, the name inside or underneath oval</mark>.
+				- System boundary(optional): <mark>> rectangle</mark>
+				- Associations: <mark>-> solid line</mark>
 					- Use cases' relationships:
 						- << extend >>: a generalization relationship, for additional action to continues the behavior of a base use case.
-						- << include >>: a generalization relationship, the inclusion of all behavior in base use case.  ==--->==
-						- inheritance: offering a third opportunity to indicate potential reuse. ==--->==
-					- Actors' relationships: generalization/specialization, aggregations or compositions. ==->==
+						- << include >>: a generalization relationship, the inclusion of all behavior in base use case.  <mark>---></mark>
+						- inheritance: offering a third opportunity to indicate potential reuse. <mark>---></mark>
+					- Actors' relationships: generalization/specialization, aggregations or compositions. <mark>-></mark>
 			- Description:
 				- provide the details of sequence with each use case.
 				- a narrative description of the sequence of steps is needed.
@@ -35,33 +35,38 @@
 				- middle: a list of attributes (member variables).
 				- bottom: list of operations (member functions).
 			- Relationships:
-				- Association: semantic connection among classes ==━━━━==(name) - **bi-directional**
-				- Aggregation: whole and parts ==<>━━━━ - **bi-directional**
-				- Composition: ==◄►━━━━==(name) - **bi-directional**
-				- Multiplicity and Navigation: how many objects participate -  the navigation is in **one direction** ==━━━━>== ![[multiplicity-arrows.png]]
-				- Dependency: change in one is may cause a change in other - "using". ==------->== 
-				- Generalization: hierarchy - subclasses(descendent - child) and superclass(ancestor - parent) ==━━━━>== "is-a-kind-of" 
+				- Association: semantic connection among classes <mark>━━━━</mark>(name) - **bi-directional**
+				- Aggregation: whole and parts <mark><>━━━━ </mark> - **bi-directional**
+				- Composition: <mark>◄►━━━━</mark>(name) - **bi-directional**
+				- Multiplicity and Navigation: how many objects participate -  the navigation is in **one direction** <mark>━━━━></mark>
+
+				| ![multiplicity-arrows.png](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Software-Engineering/images/multiplicity-arrows.png?raw=true) | 
+				|:--:| 
+				| *Multiplicity Arrows Types* |
+	
+				- Dependency: change in one is may cause a change in other - "using". <mark>------></mark>
+				- Generalization: hierarchy - subclasses(descendent - child) and superclass(ancestor - parent) <mark>━━━━></mark> "is-a-kind-of" 
 					- Inheritance:
 						- Overriding: replacing a method by a more specific implementation of that method in a subclass.
 			- Abstract class: the basis of further subclasses can have instances.
 			- Concrete class: the class can be instantiated.
-
+   
 		- Object Diagram: "**objects and their relationships**", simplified diagrams that don't represent massage broadcast.
 		
 		- Sequence Diagram : are temporal representation of "**objects and their interactions ordered by time**", represent flow of each use case.
 			- Users:
-				- Users: see the specifics of their ==business preocessing==.
-				- Analysts: see the ==flow== of the sequences.
-				- Developers: see ==objects== that need to be developed and ==operations== foe those objects.
-				- Quality assurance engineers: see the ==details of the process== and develop ==test cases== based on the processing.
+				- Users: see the specifics of their <mark>business preocessing</mark>.
+				- Analysts: see the <mark>flow</mark> of the sequences.
+				- Developers: see <mark>objects</mark> that need to be developed and <mark>perations</mark> foe those objects.
+				- Quality assurance engineers: see the <mark>details of the process</mark> and develop <mark>test cases</mark> based on the processing.
 			- Diagram:
 				- objects and actors listed along the top of digram.
 				- interactions indicated by annotated arrows (........).
 				- the dotted lines meaning the lifeline of object over time.
 				- activations: when an object is do action.
 				- messages: the communication between objects.
-					- synchronous message symbol: a sender must wait for a response  before it continues. ==━━━━►==
-					- asynchronous message symbol: doesn't wait for the receiver and return before sending other messages... ==━━━━>==
+					- synchronous message symbol: a sender must wait for a response  before it continues. <mark>━━━━►</mark>
+					- asynchronous message symbol: doesn't wait for the receiver and return before sending other messages... <mark >━━━━></mark>
 					- alternative: conditions indicated in square brackets.
 					- loop
 		- Collaboration: are spatial representation of **"object, links, and interactions"**.
@@ -86,7 +91,7 @@
 		- Deployment: components in particular **pieces of hardware**.
 		
 - Data Processing models:
-	- Data Flow Diagrams (DFDs): ==graphical== representation of the ==movement== of data between ==external entities==, ==processes== and ==data stores== within a system.
+	- Data Flow Diagrams (DFDs): <mark>graphical</mark> representation of the <mark>movement</mark> of data between <mark>external entities</mark>, <mark>processes</mark> and <mark>data stores</mark> within a system.
 		- show steps as data flows through a system.
 		- can be used in showing the data exchange between a system and other systems.
 		- help to understand the overall of the system.
@@ -119,17 +124,22 @@
 					- Identify the external entities
 					- what data will enter to system
 					- what data receive output from system.
-					- ==NO DATA STORES HERE==.
+					- <mark>NO DATA STORES HERE</mark>.
 				- Level-0: major processes pf high level of abstraction.
 					- break the processes int 2 or more sub-processes.
 					- what data flows between processes and external entities.
 					- what data stores.
-					- ==No New External Entities==.
+					- <mark>No New External Entities</mark>.
 				- Level-1: result form decomposition of level-0.
 				- Level-2:  result form decomposition of level-1.
 			- The number of levels depends on the complexity of the system to Level-n DFD.
 			- DFD Balancing:
-				- number of inputs and outputs to *lower level DFD* equals to inputs and output of *higher level DFD*. ![[balanced-DFD.png]]
-										      [Balanced DFD]	
-				  ![[unbalanced-DFD.png]]
-										     [Unbalanced DFD]	
+				- number of inputs and outputs to *lower level DFD* equals to inputs and output of *higher level DFD*. 
+
+			| ![balanced-DFD.png](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Software-Engineering/images/balanced-DFD.png?raw=true) | 
+			|:--:| 
+			| *Balanced DFD* |
+			
+			| ![unbalanced-DFD.png](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Software-Engineering/images/unbalanced-DFD.png?raw=true) | 
+			|:--:| 
+			| *Unbalanced DFD* |
