@@ -107,9 +107,9 @@
 				+ Stability **issues** arises for some cases.
 
 + ###  Note!!!
-|Convex|Concave|
+|Concave|Convex|
 |-----| -----|
-|All interior angles < 180| At least one angle > 180 and < 360|
-|All diagonals inside the closed figure| At least one diagonal outside the close figure|
+|At least one angle > 180 and < 360|All interior angles < 180|
+|At least one diagonal outside the close figure|All diagonals inside the closed figure|
 
 ![](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Computer-Graphics/images/convexVsConcave.png)
