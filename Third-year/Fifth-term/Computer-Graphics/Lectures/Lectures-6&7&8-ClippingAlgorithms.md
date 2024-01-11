@@ -6,7 +6,7 @@
 |-----| -----|
 | select what we will see from world | indicates where it is to be viewed on the output device|
 
-![[2D-clipping.png]]
+![](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Computer-Graphics/images/2D-clipping.png)
 
 + We can use any shape but usually a clipping regions is a rectangle in standard position.
 + Used to:
@@ -52,11 +52,13 @@
 					+ And find which of 4 regions lies in.
 					+ Then calculate the line intersection with the corresponding boundary.
 				+ Case 1 -> when P_0 is inside: **short line will be accept in cohen-sutherland testing**.
-				 ![[case1-NLN.png]]
+				 ![](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Computer-Graphics/images/case1-NLN.png)
 				+ Case 2 -> when P_0 is in an edge region: **3 cases with 3 probabilities, one of them will be reject in cohen-sutherland testing**.
-				 ![[case2-NLN.png]]
+
+				  ![](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Computer-Graphics/images/case2-NLN.png)
+
 				 + Case 3 -> when P_0 is in corner region: **2 possibilities (above, left of the clipping window) each has 3 cases with 3 probabilities, one of them will be reject in cohen-sutherland testing**.
-				  ![[case3-NLN.png]]
+				  ![](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Computer-Graphics/images/case3-NLN.png)
 				+ To determine in which region P_end lies we compare slope of line P_0 P_end to slopes of the boundaries of the NLN regions.
 					+ For example,  with LT in case 2:
 				 $$ \dfrac{y_{T} - y_{0}}{x_{R} - x_{0}} < \dfrac{y_{end} - y_{0}}{x_{end} - x_{0}} < \dfrac{y_{T} - y_{0}}{x_{L} - x_{0}} $$
@@ -85,7 +87,7 @@
 				  + in -> in (V2)
 				  + in -> out (V1_new)
 				  + out -> out (none)
-				   ![[polygonClipping-accurate.png]] 
+				   ![](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Computer-Graphics/images/polygonClipping-accurate.png)
 			+ ##### Disadvantages: 
 				+ Make extraneous lines for concave polygon, but correctly with convex polygons.
 				+ Clipping other shapes: Circle, Ellipse, Curve can't applied with it.
@@ -99,7 +101,7 @@
 				+ For a **counterclockwise** traversal:
 					1. For an <span class="green">outside-to-inside</span>, follow the <span class="red">polygon boundary</span>.
 					2. For an <span class="green">inside-to-outside</span>, follow the <span class="red">clipping window boundary</span>.
-				   ![[Weiler-Atherton.png]]
+				   ![](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Computer-Graphics/images/Weiler-Atherton.png)
 			+ ##### Disadvantages:  
 				+ Extended to **complex** situations with arbitrary window.
 				+ Stability **issues** arises for some cases.
@@ -110,4 +112,4 @@
 |All interior angles < 180| At least one angle > 180 and < 360|
 |All diagonals inside the closed figure| At least one diagonal outside the close figure|
 
-![[convexVsConcave.png]]
+![](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Computer-Graphics/images/convexVsConcave.png)
