@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Third-year/Fifth-term/Computer-Graphics/Lectures/Lecture-6-ClippingAlgorithms.md",
+                "file": "Third-year/Fifth-term/Computer-Graphics/Lectures/Lectures-6&7&8-ClippingAlgorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Third-year/Fifth-term/Computer-Graphics/Lectures/Lecture-6-ClippingAlgorithms.md",
+                "file": "Third-year/Fifth-term/Computer-Graphics/Lectures/Lectures-6&7&8-ClippingAlgorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Third-year/Fifth-term/Computer-Graphics/Lectures/Lecture-6-ClippingAlgorithms.md",
+                "file": "Third-year/Fifth-term/Computer-Graphics/Lectures/Lectures-6&7&8-ClippingAlgorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Third-year/Fifth-term/Computer-Graphics/Lectures/Lecture-6-ClippingAlgorithms.md"
+                "file": "Third-year/Fifth-term/Computer-Graphics/Lectures/Lectures-6&7&8-ClippingAlgorithms.md"
               }
             }
           }
@@ -149,6 +149,13 @@
   },
   "active": "0c5f6942827a3ae3",
   "lastOpenFiles": [
+    "Third-year/Fifth-term/Computer-Graphics/images/convexVsConcave.png",
+    "Third-year/Fifth-term/Computer-Graphics/images/Weiler-Atherton.png",
+    "Third-year/Fifth-term/Computer-Graphics/images/polygonClipping-accurate.png",
+    "Third-year/Fifth-term/Computer-Graphics/Lectures/Lectures-6&7&8-ClippingAlgorithms.md",
+    "Third-year/Fifth-term/Computer-Graphics/images/case3-NLN.png",
+    "Third-year/Fifth-term/Computer-Graphics/images/case2-NLN.png",
+    "Third-year/Fifth-term/Computer-Graphics/images/case1-NLN.png",
     "Obsidian-Collage/Third-year/Fifth-term/Software-Engineering/images/unbalanced-DFD.png",
     "Obsidian-Collage/Third-year/Fifth-term/Software-Engineering/images/multiplicity-arrows.png",
     "Obsidian-Collage/Third-year/Fifth-term/Software-Engineering/images/balanced-DFD.png",
@@ -161,7 +168,6 @@
     "Obsidian-Collage/README.md",
     "Obsidian-Collage",
     "Third-year/Fifth-term/Computer-Graphics/Code/clipLine-algo1.py",
-    "Third-year/Fifth-term/Computer-Graphics/Lectures/Lecture-6-ClippingAlgorithms.md",
     "Code/clipLine-algo1 1.cpp",
     "Third-year/Fifth-term/Computer-Graphics/Code/clipLine-algo1 2.cpp",
     "Code/clipLine-algo1.cpp",
@@ -170,15 +176,9 @@
     "Third-year/Fifth-term/Computer-Graphics/images/2D-clipping.png",
     "Clipping.md",
     "README.md",
-    "Collage/Software-Engineering/images/unbalanced-DFD.png",
-    "Collage/Software-Engineering/images/multiplicity-arrows.png",
-    "Collage/Software-Engineering/images/balanced-DFD.png",
     "Collage/Software-Engineering/Lectures/Lecture-6&7-UML.md",
     "Collage/README.md",
     "Third-year/Fifth-term/Software-Engineering/Lectures/Lecture-6&7-UML.md",
-    "Third-year/Fifth-term/Software-Engineering/images/unbalanced-DFD.png",
-    "Third-year/Fifth-term/Software-Engineering/images/multiplicity-arrows.png",
-    "Third-year/Fifth-term/Software-Engineering/images/balanced-DFD.png",
     "Third-year/Fifth-term/README.md"
   ]
 }
