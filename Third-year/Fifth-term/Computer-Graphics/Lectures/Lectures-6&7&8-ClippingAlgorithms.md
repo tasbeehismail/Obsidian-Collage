@@ -14,7 +14,8 @@
 	+ antialias object boundaries, to mange multi-window environment.
 	+ allow parts of picture to be moved, copied or erased.
 + ## What we will clip it and its algorithms?
-	+ ### Point:  **P =** (x, y) $$ xw_{min} \leq x \leq xw_{max} \ \&\& \ yw_{min} \leq y \leq yw_{max} $$ ![[point.png]]
+	+ ### Point:  **P =** (x, y) $$ xw_{min} \leq x \leq xw_{max} \ \&\& \ yw_{min} \leq y \leq yw_{max} $$
+         ![](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Computer-Graphics/images/point.png)
 	
 	+ ### Line:
 		+ #### Cohen-Sutherland -> Clip the against each four edges of clip region:
