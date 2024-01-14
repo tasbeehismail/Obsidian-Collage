@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "44ddc3d5431fc389",
+        "id": "ef2bfdb65400be7c",
         "type": "tabs",
         "children": [
           {
-            "id": "0c5f6942827a3ae3",
+            "id": "9db8d132842fbf36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Third-year/Fifth-term/Computer-Graphics/Lectures/Lectures-6&7&8-ClippingAlgorithms.md",
+                "file": "Third-year/Fifth-term/Algorithms/Lectures/Lecture-7-NP-Problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Third-year/Fifth-term/Computer-Graphics/Lectures/Lectures-6&7&8-ClippingAlgorithms.md",
+                "file": "Third-year/Fifth-term/Algorithms/Lectures/Lecture-7-NP-Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Third-year/Fifth-term/Computer-Graphics/Lectures/Lectures-6&7&8-ClippingAlgorithms.md",
+                "file": "Third-year/Fifth-term/Algorithms/Lectures/Lecture-7-NP-Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Third-year/Fifth-term/Computer-Graphics/Lectures/Lectures-6&7&8-ClippingAlgorithms.md"
+                "file": "Third-year/Fifth-term/Algorithms/Lectures/Lecture-7-NP-Problems.md"
               }
             }
           }
@@ -147,33 +147,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c5f6942827a3ae3",
+  "active": "9db8d132842fbf36",
   "lastOpenFiles": [
-    "Third-year/Fifth-term/Computer-Graphics/images/convexVsConcave.png",
-    "Third-year/Fifth-term/Computer-Graphics/images/Weiler-Atherton.png",
-    "Third-year/Fifth-term/Computer-Graphics/images/polygonClipping-accurate.png",
+    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-5-DynamicProgramming.md",
+    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-6-Greedy.md",
+    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-7-NP-Problems.md",
     "Third-year/Fifth-term/Computer-Graphics/Lectures/Lectures-6&7&8-ClippingAlgorithms.md",
-    "Third-year/Fifth-term/Computer-Graphics/images/case3-NLN.png",
-    "Third-year/Fifth-term/Computer-Graphics/images/case2-NLN.png",
-    "Third-year/Fifth-term/Computer-Graphics/images/case1-NLN.png",
-    "Obsidian-Collage/Third-year/Fifth-term/Software-Engineering/images/unbalanced-DFD.png",
-    "Obsidian-Collage/Third-year/Fifth-term/Software-Engineering/images/multiplicity-arrows.png",
-    "Obsidian-Collage/Third-year/Fifth-term/Software-Engineering/images/balanced-DFD.png",
+    "Code/kruskal.cpp",
+    "Code/prim.cpp",
+    "Code/DFS.cpp",
+    "Code/#include <bits:stdc++.h>",
+    "Code/BFS-and-importantFunctions.cpp",
+    "Code/Dijkstra.cpp",
+    "Code/BFS.cpp",
+    "Third-year/Fifth-term/Algorithms/Code/Dijkstra.cpp.md",
+    "Third-year/Fifth-term/Algorithms/Code/Dijkstra.cpp",
+    "Third-year/Fifth-term/Algorithms/Dijkstra.cpp",
+    "Third-year/Fifth-term/Algorithms/Code/Kruskal.md",
+    "Third-year/Fifth-term/Algorithms/Code/Prim.md",
+    "Third-year/Fifth-term/Algorithms/Code/DFS.md",
+    "Third-year/Fifth-term/Algorithms/Code/BFS.md",
+    "Third-year/Fifth-term/Algorithms/Code",
+    "Third-year/Fifth-term/Algorithms/Images/mst.png",
+    "Third-year/Fifth-term/Algorithms/Images/wiring1.png",
+    "Third-year/Fifth-term/Algorithms/Images/wiring2.png",
+    "Third-year/Fifth-term/Algorithms/Images/dfs.png",
+    "Third-year/Fifth-term/Algorithms/Images/bfs.png",
+    "Third-year/Fifth-term/Algorithms/Images/fibTree.png",
+    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-4-Cont.Recursion.md",
+    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-5-SortingAlgorithms.md",
+    "Third-year/Fifth-term/Algorithms/Images/solvingRecurrences.png",
+    "Third-year/Fifth-term/Algorithms/Images/solvingRecurrences.png",
+    "im.md",
+    "Third-year/Fifth-term/Algorithms/Images/mergeSort.png",
+    "Third-year/Fifth-term/Computer-Graphics/images/convexVsConcave.png",
     "Obsidian-Collage/Third-year/Fifth-term/Software-Engineering/Lectures/Lecture-6&7-UML.md",
-    "Obsidian-Collage/Third-year/Fifth-term/Software-Engineering/images",
-    "Obsidian-Collage/Third-year/Fifth-term/Software-Engineering/Lectures",
-    "Obsidian-Collage/Third-year/Fifth-term/Software-Engineering",
-    "Obsidian-Collage/Third-year/Fifth-term",
-    "Obsidian-Collage/Third-year",
     "Obsidian-Collage/README.md",
-    "Obsidian-Collage",
-    "Third-year/Fifth-term/Computer-Graphics/Code/clipLine-algo1.py",
-    "Code/clipLine-algo1 1.cpp",
-    "Third-year/Fifth-term/Computer-Graphics/Code/clipLine-algo1 2.cpp",
-    "Code/clipLine-algo1.cpp",
     "Untitled.md",
-    "Third-year/Fifth-term/Computer-Graphics/images/point.png",
-    "Third-year/Fifth-term/Computer-Graphics/images/2D-clipping.png",
     "Clipping.md",
     "README.md",
     "Collage/Software-Engineering/Lectures/Lecture-6&7-UML.md",
