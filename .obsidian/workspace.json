@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Third-year/Fifth-term/Algorithms/Lectures/Lecture-7-NP-Problems.md",
+                "file": "Third-year/Fifth-term/Algorithms/Lectures/Lecture-7.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "94da777f6d5e3fcc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Third-year/Fifth-term/Algorithms/Lectures/Lecture-7-NP-Problems.md",
+                "file": "Third-year/Fifth-term/Algorithms/Lectures/Lecture-7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Third-year/Fifth-term/Algorithms/Lectures/Lecture-7-NP-Problems.md",
+                "file": "Third-year/Fifth-term/Algorithms/Lectures/Lecture-7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Third-year/Fifth-term/Algorithms/Lectures/Lecture-7-NP-Problems.md"
+                "file": "Third-year/Fifth-term/Algorithms/Lectures/Lecture-7.md"
               }
             }
           }
@@ -149,9 +148,10 @@
   },
   "active": "9db8d132842fbf36",
   "lastOpenFiles": [
+    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-4-Cont.Recursion.md",
     "Third-year/Fifth-term/Algorithms/Lectures/Lecture-5-DynamicProgramming.md",
     "Third-year/Fifth-term/Algorithms/Lectures/Lecture-6-Greedy.md",
-    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-7-NP-Problems.md",
+    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-7.md",
     "Third-year/Fifth-term/Computer-Graphics/Lectures/Lectures-6&7&8-ClippingAlgorithms.md",
     "Code/kruskal.cpp",
     "Code/prim.cpp",
@@ -174,7 +174,6 @@
     "Third-year/Fifth-term/Algorithms/Images/dfs.png",
     "Third-year/Fifth-term/Algorithms/Images/bfs.png",
     "Third-year/Fifth-term/Algorithms/Images/fibTree.png",
-    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-4-Cont.Recursion.md",
     "Third-year/Fifth-term/Algorithms/Lectures/Lecture-5-SortingAlgorithms.md",
     "Third-year/Fifth-term/Algorithms/Images/solvingRecurrences.png",
     "Third-year/Fifth-term/Algorithms/Images/solvingRecurrences.png",
