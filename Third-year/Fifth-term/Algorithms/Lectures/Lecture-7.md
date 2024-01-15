@@ -24,14 +24,14 @@
 			+ Given Algorithm $A$ and input $I$ output $S$, it’s required to verify that $S$ is the correct output.
 		+ ##### Examples:
 			+ Search Problem: Give A list $L$ and input $X$, and required the position of $X$ in $L$ if exist.
-				+ ###### Solving Algorithm → $O(n)$:
+				+ ###### **Solving Algorithm** → $O(n)$:
 					+ Search in array what the index for element $X$.
-				+ ###### Verification Algorithm → $O(1)$:
+				+ ###### **Verification Algorithm** → $O(1)$:
 					+ Look for the returned index and compare the value inside with the element $X$.
-			  + Sort Problem: Give A list $L$ and input $X$, and required sort the list in increasing order.
-				+ ###### Solving Algorithm → $O(n \log n)$:
+			+ Sort Problem: Give A list $L$ and input $X$, and required sort the list in increasing order.
+				+ ###### **Solving Algorithm** → $O(n \log n)$:
 					+ Use any searching algorithm like Merge sort.
-				+ ###### Verification Algorithm → $O(n)$:
+				+ ###### **Verification Algorithm** → $O(n)$:
 					+ Ensure if the is sorted successfully.
 		  + **For each problem:** The Complexity of verify algorithm is <span class="blue">less than or equal</span> solving algorithm.
 
@@ -65,12 +65,12 @@
 	+ using 1600 work stations.
 + #### RSA-250: having 250 decimal digits (829 bits).
 	+ will take about 800,000 years to be factored.
-  + #### RSA-2048: having 617 decimal digits (2048 bits).
-	  + may not be factorable for many years to come.
++ #### RSA-2048: having 617 decimal digits (2048 bits).
+	+ may not be factorable for many years to come.
 
 ## Cryptography:
 + #### Symmetric Encryption Example:
-	+  if Alice wants to send to Bob a msg, Assume we converted each letter to its ASCII code and got the following result:
+	+ if Alice wants to send to Bob a msg, Assume we converted each letter to its ASCII code and got the following result:
 		**MSG** : 0 1 0 0 1 0 1 0 0 1
 	+ And we made a balanced key (balanced means: no. of 0’s == no. of 1’s)
 		**KEY** : 0 1 1 0 1 0 0 1 0 1
