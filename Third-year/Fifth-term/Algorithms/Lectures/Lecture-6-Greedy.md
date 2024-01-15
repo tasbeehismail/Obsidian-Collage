@@ -4,7 +4,7 @@
 			+ nodes to be visited next, or
 			+ nodes that we have already visited.
 		+ It is "aggressive" in the sense that it examines complete paths.
-		![[dfs.png]]
+		![](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Algorithms/Images/dfs.png)
 		```embed-cpp
 			PATH: "vault://Code/DFS.cpp"
 		```
@@ -13,7 +13,7 @@
 			+ nodes to be visited next, or
 			+ nodes that we have already visited.
 		+ It is "cautious" in the sense that it examines every path of length $i$ before going on to paths of length $i+1$.
-		![[bfs.png]]
+		![](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Algorithms/Images/bfs.png)
 		```embed-cpp
 			PATH: "vault://Code/BFS-and-importantFunctions.cpp"
 		```
@@ -22,14 +22,15 @@
 + ## Minimum Spanning Trees (MST)
 	+ #### Problem: Laying Telephone Wire: 
 		+ ###### Naive approach: ![[wiring1.png]]
-		+ ###### Better approach: will minimize the total length of wire connecting the customers.![[wiring2.png]]
+		+ ###### Better approach: will minimize the total length of wire connecting the customers.
+    	![](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Algorithms/Images/wiring2.png)
 	
 	+ It is a subgraph of an undirected weighted graph $G$, such that:
 		+ It is a tree (acyclic).
 		+ It covers all the vertices $V$, contains $V - 1$ edges.
 		+ The total cost with tree edges is the minimum among all possible spanning trees.
 		+ No necessarily unique.
-	![[mst.png]]
+	![](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Algorithms/Images/mst.png)
 
 	+ ### We have two algorithms to generate a MST:
 		+ #### Prim: (build tree incrementally)
@@ -45,8 +46,8 @@
 			+ expand the set include edges to include it.
 			+  Implementation using adjacency list, priority queues and disjoint sets.
 				```embed-cpp
-				PATH: "vault://Code/kruskal.cpp"
-			   ```
+					PATH: "vault://Code/kruskal.cpp"
+			   	```
 			*Revision The solution and steps of problems in algorithm from slides 43 to 74*
 
 + ## Dijkstra’s Algorithm
