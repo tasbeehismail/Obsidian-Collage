@@ -6,7 +6,7 @@
 
 ## Example:
 + Fibonacci series: $F(n) = F(n-1) + F(n-2)$ 
-![[fibTree.png]]
+![](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Algorithms/Images/fibTree.png)
 
 ## Approaches:
 + ### Top-down approach:
@@ -29,7 +29,7 @@
 		sum = fib(n-1) + fib(n-2);
 		dp[n] = sum; 
 	}
-```
+	```
 
 + ### Bottom-up approach:
 	+ It uses the <span class="red">tabulation</span> technique to implement DP.
@@ -48,7 +48,7 @@
 		}
 		return A[n];
 	}
-```
+	```
 
 + It solve many real-life problems such as:
 	+ Make a change problem.
