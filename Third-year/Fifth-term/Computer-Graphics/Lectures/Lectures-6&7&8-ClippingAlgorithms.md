@@ -6,7 +6,7 @@
 |-----| -----|
 | select what we will see from world | indicates where it is to be viewed on the output device|
 
-![](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Computer-Graphics/images/2D-clipping.png)
+![[2D-clipping.png]]
 
 + We can use any shape but usually a clipping regions is a rectangle in standard position.
 + Used to:

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-8.md",
+                "file": "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-8.md",
+                "file": "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-8.md",
+                "file": "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-8.md"
+                "file": "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-6.md"
               }
             }
           }
@@ -148,21 +148,24 @@
   },
   "active": "5b79924484416ac5",
   "lastOpenFiles": [
-    "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-6.md",
-    "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-8.md",
-    "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-5.md",
-    "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-4.md",
     "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-7.md",
-    "Third-year/Fifth-term/Computer-Networks/images/Mesh.png",
-    "Third-year/Fifth-term/Computer-Networks/images/Tree.png",
-    "Third-year/Fifth-term/Computer-Networks/images/Star.png",
-    "Third-year/Fifth-term/Computer-Networks/images/Ring.png",
-    "Third-year/Fifth-term/Computer-Networks/images/Bus.png",
+    "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-8.md",
     "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-1.md",
     "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-2.md",
+    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 2.18.14 AM.png",
+    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 2.18.30 AM.png",
+    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 2.18.40 AM.png",
+    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 2.22.41 AM.png",
+    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 3.26.10 AM.png",
+    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 2.26.59 AM.png",
+    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 3.27.11 AM.png",
+    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 3.13.38 AM.png",
+    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 3.27.41 AM.png",
+    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 3.14.47 AM.png",
+    "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-6.md",
+    "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-5.md",
+    "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-4.md",
     "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-3.md",
-    "Third-year/Fifth-term/Computer-Networks/images/hybridModel.png",
-    "Third-year/Fifth-term/Computer-Networks/images/OSI.png",
     "Third-year/Fifth-term/Computer-Networks/images",
     "Third-year/Fifth-term/Computer-Networks/Lectures",
     "Third-year/Fifth-term/Computer-Graphics/Lectures/Lectures-6&7&8-ClippingAlgorithms.md",
@@ -172,8 +175,6 @@
     "Third-year/Fifth-term/Operating-Systems/Q&A/CPU Scedualing.md",
     "Third-year/Fifth-term/Operating-Systems/Q&A/Processes.md",
     "Third-year/Fifth-term/Operating-Systems/Q&A",
-    "Third-year/Fifth-term/Computer-Graphics/images/polygonClipping-accurate.png",
-    "Third-year/Fifth-term/Operating-Systems/Images/computer-sys-org.png",
     "Untitled.canvas",
     "2024-01-15.md",
     "computer-sys-org.png.md",
@@ -192,8 +193,6 @@
     "Third-year/Fifth-term/Algorithms/Code/Prim.md",
     "Third-year/Fifth-term/Algorithms/Code/DFS.md",
     "Third-year/Fifth-term/Algorithms/Code/BFS.md",
-    "Third-year/Fifth-term/Algorithms/Images/mst.png",
-    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-5-SortingAlgorithms.md",
-    "im.md"
+    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-5-SortingAlgorithms.md"
   ]
 }
