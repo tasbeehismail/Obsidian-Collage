@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cf99e5300d106377",
+        "id": "e2fa1d8959808373",
         "type": "tabs",
         "children": [
           {
-            "id": "5b79924484416ac5",
+            "id": "7660d94431d672d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-6.md",
+                "file": "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "94da777f6d5e3fcc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-6.md",
+                "file": "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-6.md",
+                "file": "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-6.md"
+                "file": "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-1.md"
               }
             }
           }
@@ -146,29 +147,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b79924484416ac5",
+  "active": "7660d94431d672d2",
   "lastOpenFiles": [
-    "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-7.md",
-    "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-8.md",
+    "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-2.md",
+    "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-6.md",
+    "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-5.md",
+    "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-4.md",
+    "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-3.md",
+    "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-1.md",
+    "Third-year/Fifth-term/Numerical-Analysis/Images/Add1-graph.png",
+    "Third-year/Fifth-term/Numerical-Analysis/Images/Sub-graph.png",
+    "Third-year/Fifth-term/Numerical-Analysis/Images/Mul-graph.png",
+    "Third-year/Fifth-term/Numerical-Analysis/Images/Div-graph.png",
+    "Third-year/Fifth-term/Numerical-Analysis/Images/Add-graph.png",
+    "Third-year/Fifth-term/Numerical-Analysis/Images/L3-Ex2.png",
+    "L3-Ex1png.md",
     "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-1.md",
-    "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-2.md",
-    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 2.18.14 AM.png",
-    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 2.18.30 AM.png",
-    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 2.18.40 AM.png",
-    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 2.22.41 AM.png",
-    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 3.26.10 AM.png",
-    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 2.26.59 AM.png",
-    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 3.27.11 AM.png",
-    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 3.13.38 AM.png",
-    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 3.27.41 AM.png",
-    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 3.14.47 AM.png",
-    "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-6.md",
-    "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-5.md",
+    "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-8.md",
+    "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-7.md",
+    "Third-year/Fifth-term/Computer-Graphics/Lectures/Lectures-6&7&8-ClippingAlgorithms.md",
     "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-4.md",
     "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-3.md",
+    "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-2.md",
+    "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-5.md",
+    "Third-year/Fifth-term/Numerical-Analysis/Images/L3-Ex3.png",
+    "Third-year/Fifth-term/Numerical-Analysis/Images/L3-Ex1.png",
+    "Third-year/Fifth-term/Numerical-Analysis/Images",
+    "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-6.md",
+    "Third-year/Fifth-term/Numerical-Analysis/Lectures",
+    "Third-year/Fifth-term/Numerical-Analysis",
+    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 2.18.14 AM.png",
+    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 2.18.30 AM.png",
     "Third-year/Fifth-term/Computer-Networks/images",
     "Third-year/Fifth-term/Computer-Networks/Lectures",
-    "Third-year/Fifth-term/Computer-Graphics/Lectures/Lectures-6&7&8-ClippingAlgorithms.md",
     "Third-year/Fifth-term/Computer-Networks",
     "Third-year/Fifth-term/Operating-Systems/Lectures/Lecture-1.md",
     "Third-year/Fifth-term/Operating-Systems/Q&A/Process Synchronization.md",
@@ -184,15 +195,6 @@
     "Third-year/Fifth-term/Operating-Systems",
     "Third-year/Fifth-term/Algorithms/Lectures/Lecture-7.md",
     "Third-year/Fifth-term/Algorithms/Lectures/Lecture-5-DynamicProgramming.md",
-    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-6-Greedy.md",
-    "Code/kruskal.cpp",
-    "Code/prim.cpp",
-    "Code/DFS.cpp",
-    "Third-year/Fifth-term/Algorithms/Code/Dijkstra.cpp.md",
-    "Third-year/Fifth-term/Algorithms/Code/Kruskal.md",
-    "Third-year/Fifth-term/Algorithms/Code/Prim.md",
-    "Third-year/Fifth-term/Algorithms/Code/DFS.md",
-    "Third-year/Fifth-term/Algorithms/Code/BFS.md",
-    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-5-SortingAlgorithms.md"
+    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-6-Greedy.md"
   ]
 }
