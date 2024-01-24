@@ -2,5 +2,7 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "notation-colour-blocks"
-  ]
+  ],
+  "baseFontSize": 10,
+  "theme": "obsidian"
 }
