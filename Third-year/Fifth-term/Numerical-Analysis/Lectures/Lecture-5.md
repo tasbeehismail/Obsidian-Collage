@@ -2,11 +2,11 @@
 #### Absolute Error:
 ###### Where $N$ is $Exact$, $n$ is $Approximated$ $$|e| = |N - n|$$
 #### Relative Error:
-###### $$|\frac{e}{N}| \sim |\frac{e}{n}|$$$$|\frac{N-n}{N}| \sim |\frac{N-n}{n}|$$
+###### $$|\frac{e}{N}| \sim |\frac{e}{n}|$$ $$|\frac{N-n}{N}| \sim |\frac{N-n}{n}|$$
 ****
 ## Floating Point Arithmetic & Rounding
 
-###### The Form: $$y = f_{y}*10^e + g_{y}*10^{e-t} $$
+###### The Form: $$y = f_{y}*10^e + g_{y}*10^{e-t}$$
 ###### Where,   $0.1 < |y| < 1$
 ###### $$N = y,\ n = f_{y}*10^e,\ e = g_{y}*10^{e-t}$$
 
@@ -36,17 +36,17 @@
 -----
 ## Process Graph
 ###### - Addition Graph:
-
+![](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Numerical-Analysis/Images/Add-graph.png)
 ###### $$\frac{e_{y}}{y} = \frac{e_{x_{1}}}{x_{1}} . \frac{x_{1}}{y} + \frac{e_{x_{2}}}{x_{2}} . \frac{x_{2}}{y} + r_{a}$$
 ------
 ###### - Subtraction Graph: 
-![[Sub-graph.png]]
+![](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Numerical-Analysis/Images/Sub-graph.png)
 ###### $$\frac{e_{y}}{y} = \frac{e_{x_{1}}}{x_{1}} . \frac{x_{1}}{y} - \frac{e_{x_{2}}}{x_{2}} . \frac{x_{2}}{y} + r_{s}$$
 ------
 ###### - Multiplication Graph: 
-![[Mul-graph.png]]
+![](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Numerical-Analysis/Images/Mul-graph.png)
 ###### $$\frac{e_{y}}{y} = \frac{e_{a}}{a} + \frac{e_{x}}{x} + r_{m}$$
 ------
 ###### - Division Graph: 
-![[Div-graph.png]]
+![](https://github.com/tasbeehismail/Obsidian-Collage/blob/main/Third-year/Fifth-term/Numerical-Analysis/Images/Div-graph.png)
 ###### $$\frac{e_{y}}{y} = \frac{e_{a}}{a} - \frac{e_{x}}{x} + r_{d}$$
