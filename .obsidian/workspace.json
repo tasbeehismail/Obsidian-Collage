@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-1.md",
+                "file": "Third-year/Sixth-term/Software-Development/Chapter-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-1.md",
+                "file": "Third-year/Sixth-term/Software-Development/Chapter-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-1.md",
+                "file": "Third-year/Sixth-term/Software-Development/Chapter-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-1.md"
+                "file": "Third-year/Sixth-term/Software-Development/Chapter-1.md"
               }
             }
           }
@@ -147,14 +147,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7660d94431d672d2",
+  "active": "46c95a29fe687f21",
   "lastOpenFiles": [
-    "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-2.md",
+    "Third-year/Sixth-term/Software-Development/Images",
+    "Third-year/Sixth-term/Software-Development/Images/ROI.png",
+    "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-1.md",
+    "Third-year/Sixth-term/Software-Development/Chapter-1.md",
     "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-6.md",
+    "Third-year/Sixth-term/Software-Development",
+    "Third-year/Sixth-term",
     "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-5.md",
     "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-4.md",
     "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-3.md",
-    "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-1.md",
+    "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-2.md",
     "Third-year/Fifth-term/Numerical-Analysis/Images/Add1-graph.png",
     "Third-year/Fifth-term/Numerical-Analysis/Images/Sub-graph.png",
     "Third-year/Fifth-term/Numerical-Analysis/Images/Mul-graph.png",
@@ -177,7 +182,6 @@
     "Third-year/Fifth-term/Numerical-Analysis/Lectures",
     "Third-year/Fifth-term/Numerical-Analysis",
     "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 2.18.14 AM.png",
-    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 2.18.30 AM.png",
     "Third-year/Fifth-term/Computer-Networks/images",
     "Third-year/Fifth-term/Computer-Networks/Lectures",
     "Third-year/Fifth-term/Computer-Networks",
@@ -191,10 +195,6 @@
     "computer-sys-org.png.md",
     "Third-year/Fifth-term/Algorithms/Lectures/Lecture-4-Cont.Recursion.md",
     "Third-year/Fifth-term/Operating-Systems/Images",
-    "Third-year/Fifth-term/Operating-Systems/Lectures",
-    "Third-year/Fifth-term/Operating-Systems",
-    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-7.md",
-    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-5-DynamicProgramming.md",
-    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-6-Greedy.md"
+    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-7.md"
   ]
 }
