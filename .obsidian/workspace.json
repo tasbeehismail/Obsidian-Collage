@@ -11,8 +11,12 @@
             "id": "7660d94431d672d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Third-year/Sixth-term/Software-Development/Chapter-3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Third-year/Sixth-term/Software-Development/Chapter-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Third-year/Sixth-term/Software-Development/Chapter-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Third-year/Sixth-term/Software-Development/Chapter-3.md"
+              }
             }
           }
         ]
@@ -138,11 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7660d94431d672d2",
+  "active": "46c95a29fe687f21",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Third-year/Sixth-term/Software-Development/Chapter-3.md",
+    "Third-year/Sixth-term/Software-Development/Chapter-2.md",
+    "Third-year/Sixth-term/Software-Development/Images/Selecting.png",
+    "Third-year/Sixth-term/Software-Development/Images/Parallel.png",
+    "Third-year/Sixth-term/Software-Development/Images/Iterative.png",
+    "Third-year/Sixth-term/Software-Development/Images/Waterfall.png",
+    "Third-year/Sixth-term/Software-Development/Images/V.png",
+    "README.md",
+    "Third-year/Sixth-term/Software-Development/Chapter-1.md",
     "Third-year/Sixth-term/Software-Development/Images/ROI.png",
     "Third-year/Sixth-term/Software-Development/Images",
-    "Third-year/Sixth-term/Software-Development/Chapter-1.md",
     "Third-year/Sixth-term/Software-Development",
     "Third-year/Sixth-term",
     "Third-year/Fifth-term/Software-Engineering/tasbeeh.txt",
@@ -156,13 +173,9 @@
     "Third-year/Fifth-term/Numerical-Analysis/Images/Mul-graph.png",
     "Third-year/Fifth-term/Numerical-Analysis/Images/L3-Ex3.png",
     "Third-year/Fifth-term/Numerical-Analysis/Images/L3-Ex2.png",
-    "Third-year/Fifth-term/Numerical-Analysis/Images/L3-Ex1.png",
-    "Third-year/Fifth-term/Numerical-Analysis/Images/Div-graph.png",
-    "Third-year/Fifth-term/Numerical-Analysis/Images/Add1-graph.png",
     "Third-year/Fifth-term/Numerical-Analysis/Lectures",
     "Third-year/Fifth-term/Numerical-Analysis/Images",
     "Third-year/Fifth-term/Numerical-Analysis",
-    "Third-year/Fifth-term/Numerical-Analysis/Images/Add-graph.png",
     "L3-Ex1png.md",
     "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-1.md",
     "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-8.md",
@@ -173,7 +186,6 @@
     "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-2.md",
     "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-5.md",
     "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-6.md",
-    "Third-year/Fifth-term/Computer-Networks/images/Screenshot 2024-01-18 at 2.18.14 AM.png",
     "Third-year/Fifth-term/Computer-Networks/images",
     "Third-year/Fifth-term/Computer-Networks/Lectures",
     "Third-year/Fifth-term/Computer-Networks",
@@ -181,10 +193,6 @@
     "Third-year/Fifth-term/Operating-Systems/Q&A/Process Synchronization.md",
     "Third-year/Fifth-term/Operating-Systems/Q&A/CPU Scedualing.md",
     "Third-year/Fifth-term/Operating-Systems/Q&A/Processes.md",
-    "Untitled.canvas",
-    "2024-01-15.md",
-    "computer-sys-org.png.md",
-    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-4-Cont.Recursion.md",
-    "Third-year/Fifth-term/Algorithms/Lectures/Lecture-7.md"
+    "2024-01-15.md"
   ]
 }
