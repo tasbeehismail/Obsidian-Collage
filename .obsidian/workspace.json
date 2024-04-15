@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Third-year/Sixth-term/Software-Development/Chapter-3.md",
+                "file": "Third-year/Sixth-term/Software-Development/Chapter-5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Third-year/Sixth-term/Software-Development/Chapter-3.md",
+                "file": "Third-year/Sixth-term/Software-Development/Chapter-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Third-year/Sixth-term/Software-Development/Chapter-3.md",
+                "file": "Third-year/Sixth-term/Software-Development/Chapter-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Third-year/Sixth-term/Software-Development/Chapter-3.md"
+                "file": "Third-year/Sixth-term/Software-Development/Chapter-5.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46c95a29fe687f21",
+  "active": "7660d94431d672d2",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Third-year/Sixth-term/Software-Development/Chapter-4.md",
+    "Third-year/Sixth-term/Software-Development/Chapter-5.md",
     "Third-year/Sixth-term/Software-Development/Chapter-3.md",
+    "Untitled.canvas",
     "Third-year/Sixth-term/Software-Development/Chapter-2.md",
     "Third-year/Sixth-term/Software-Development/Images/Selecting.png",
     "Third-year/Sixth-term/Software-Development/Images/Parallel.png",
@@ -192,7 +194,6 @@
     "Third-year/Fifth-term/Operating-Systems/Lectures/Lecture-1.md",
     "Third-year/Fifth-term/Operating-Systems/Q&A/Process Synchronization.md",
     "Third-year/Fifth-term/Operating-Systems/Q&A/CPU Scedualing.md",
-    "Third-year/Fifth-term/Operating-Systems/Q&A/Processes.md",
-    "2024-01-15.md"
+    "Third-year/Fifth-term/Operating-Systems/Q&A/Processes.md"
   ]
 }
