@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Third-year/Sixth-term/Software-Development/Chapter-5.md",
+                "file": "Third-year/Sixth-term/Image-Processing/Lecture-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Third-year/Sixth-term/Software-Development/Chapter-5.md",
+                "file": "Third-year/Sixth-term/Image-Processing/Lecture-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Third-year/Sixth-term/Software-Development/Chapter-5.md",
+                "file": "Third-year/Sixth-term/Image-Processing/Lecture-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Third-year/Sixth-term/Software-Development/Chapter-5.md"
+                "file": "Third-year/Sixth-term/Image-Processing/Lecture-1.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "7660d94431d672d2",
   "lastOpenFiles": [
-    "Third-year/Sixth-term/Software-Development/Chapter-4.md",
+    "Third-year/Sixth-term/Image-Processing/Lecture-4.md",
+    "Third-year/Sixth-term/Image-Processing/Lecture-1.md",
+    "Third-year/Sixth-term/Image-Processing/Images/Stages.png",
+    "Third-year/Sixth-term/Image-Processing/Images",
     "Third-year/Sixth-term/Software-Development/Chapter-5.md",
+    "Third-year/Sixth-term/Image-Processing",
+    "Third-year/Sixth-term/Software-Development/Chapter-4.md",
     "Third-year/Sixth-term/Software-Development/Chapter-3.md",
     "Untitled.canvas",
     "Third-year/Sixth-term/Software-Development/Chapter-2.md",
@@ -174,7 +179,6 @@
     "Third-year/Fifth-term/Numerical-Analysis/Images/Sub-graph.png",
     "Third-year/Fifth-term/Numerical-Analysis/Images/Mul-graph.png",
     "Third-year/Fifth-term/Numerical-Analysis/Images/L3-Ex3.png",
-    "Third-year/Fifth-term/Numerical-Analysis/Images/L3-Ex2.png",
     "Third-year/Fifth-term/Numerical-Analysis/Lectures",
     "Third-year/Fifth-term/Numerical-Analysis/Images",
     "Third-year/Fifth-term/Numerical-Analysis",
@@ -189,11 +193,7 @@
     "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-5.md",
     "Third-year/Fifth-term/Computer-Networks/Lectures/Lecture-6.md",
     "Third-year/Fifth-term/Computer-Networks/images",
-    "Third-year/Fifth-term/Computer-Networks/Lectures",
-    "Third-year/Fifth-term/Computer-Networks",
     "Third-year/Fifth-term/Operating-Systems/Lectures/Lecture-1.md",
-    "Third-year/Fifth-term/Operating-Systems/Q&A/Process Synchronization.md",
-    "Third-year/Fifth-term/Operating-Systems/Q&A/CPU Scedualing.md",
-    "Third-year/Fifth-term/Operating-Systems/Q&A/Processes.md"
+    "Third-year/Fifth-term/Operating-Systems/Q&A/Process Synchronization.md"
   ]
 }
