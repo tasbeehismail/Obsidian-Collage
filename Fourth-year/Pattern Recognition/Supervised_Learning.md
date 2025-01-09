@@ -42,12 +42,8 @@
 #### Soft Margin vs. Hard Margin
 - **Hard Margin**: **<span class="red">No misclassification allowed</span>** (strict separation).
 - **Soft Margin**: Allows some misclassification for better generalization (controlled by parameter **<span class="red">C</span>**).
-
-
-
 ----
 ----
-
 # Random Forest
 #### What is?
 - A **supervised learning algorithm** used for **classification** ، **regression** and **feature selection**.

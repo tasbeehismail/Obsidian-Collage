@@ -59,7 +59,7 @@
 1. **Initialization**: Initialize weights of all neurons randomly or based on the input data range.
 2. **Training**:
    - **Select Input**: Randomly select an input vector $x$ from the dataset.
-   - **Find Best Matching Unit (BMU)**: Identify the neuron whose weight vector $w_j$ is closest to $x$ using a distance metric (e.g., Euclidean distance):
+   - **Find Best Matching Unit (BMU)**: Identify the neuron whose weight vector $w_j$ is closest to $x$ using a distance metric (e.g., Euclidean distance)
    - **Update Weights**:
      - Adjust the weights of the BMU and its neighbors to move closer to $x$:
        $w_j(t+1) = w_j(t) + \alpha(t) \cdot (x - w_j(t)),$ where $\alpha(t)$ is the learning rate and $w(t)$ is the weight.
@@ -67,7 +67,7 @@
    - **Repeat**: Iterate through the process for all data points over several epochs.
 #### Parameters
 1. **Learning Rate ($\alpha(t)$)**: Controls the magnitude of weight updates and decreases over time.
-2. **Neighborhood Radius**:nDefines the extent of weight updates around the BMU and decreases over time.
+2. **Neighborhood Radius**: Defines the extent of weight updates around the BMU and decreases over time.
 #### Applications
 - **Data Clustering**: **<span class="blue">Groups similar data points together in the map</span>**.
 - **Dimensionality Reduction**: **<span class="blue">Reduces high-dimensional data into 2D for easier analysis</span>**.

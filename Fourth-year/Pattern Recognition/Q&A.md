@@ -4,13 +4,10 @@ Classifiers are algorithms or models used in pattern recognition and machine lea
 #### Types of Classifiers:
 - Linear Classifiers:
   - lecture (6) mentions LDA as a linear method that finds the projection that best separates two classes.
-  
 - Non-linear Classifiers:
   - lecture (6) discusses non-linear SVM, which uses kernel functions to map data into higher dimensions where a linear hyperplane can separate them.
-
 - Tree-based Classifiers:
   - lecture (6) explains Random Forest, which is a collection of decision trees used for classification and regression tasks.
-
 - Neural Network-based Classifiers:
   - lecture (5) introduces neural networks as a method of computing based on the interaction of multiple connected processing elements, which can be used for classification tasks.
 
