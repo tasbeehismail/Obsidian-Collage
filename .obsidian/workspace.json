@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fourth-year/Computer-Vision/Image_Enhancement-Filter.md",
+                "file": "Fourth-year/Distributed_Database/Query_Optimization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Image_Enhancement-Filter"
+              "title": "Query_Optimization"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.50043487548828,
-    "collapsed": true
+    "width": 232.50043487548828
   },
   "right": {
     "id": "94da777f6d5e3fcc",
@@ -165,9 +164,13 @@
   },
   "active": "d2f84a39690f4fad",
   "lastOpenFiles": [
+    "Fourth-year/Distributed_Database/Concurrency Control in Distributed Systems.md",
+    "Fourth-year/Distributed_Database/Query_Optimization.md",
     "Fourth-year/Computer-Vision/Features_Representation&Description.md",
-    "Fourth-year/Computer-Vision/Image_Enhancement-Filter.md",
+    "Fourth-year/Distributed_Database",
+    "Fourth-year/Untitled.md",
     "Fourth-year/Computer-Vision/Segmentation.md",
+    "Fourth-year/Computer-Vision/Image_Enhancement-Filter.md",
     "Fourth-year/Computer-Vision/Feature_Detection_Matching.md",
     "Fourth-year/Pattern-Recognition/Face_Recognition.md",
     "Fourth-year/Pattern-Recognition/Introduction.md",
@@ -200,17 +203,13 @@
     "Third-year/Sixth-term/Software-Development/Images/Waterfall.png",
     "Third-year/Sixth-term/Software-Development/Images/V.png",
     "README.md",
-    "Third-year/Sixth-term/Software-Development/Chapter-1.md",
     "Third-year/Sixth-term/Software-Development/Images/ROI.png",
     "Third-year/Sixth-term/Software-Development/Images",
     "Third-year/Sixth-term/Software-Development",
     "Third-year/Sixth-term",
     "Third-year/Fifth-term/Software-Engineering/tasbeeh.txt",
-    "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-6.md",
-    "Third-year/Fifth-term/Numerical-Analysis/Lectures/Lecture-5.md",
     "Third-year/Fifth-term/Numerical-Analysis/Images/Sub-graph.png",
     "Third-year/Fifth-term/Numerical-Analysis/Images/Mul-graph.png",
-    "Third-year/Fifth-term/Numerical-Analysis/Images/L3-Ex3.png",
-    "Third-year/Fifth-term/Numerical-Analysis/Lectures"
+    "Third-year/Fifth-term/Numerical-Analysis/Images/L3-Ex3.png"
   ]
 }
