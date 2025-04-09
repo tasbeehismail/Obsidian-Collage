@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fourth-year/Compiler-Construction/Important.md",
+                "file": "Fourth-year/Advanced_Database/Transaction_Processing_1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Important"
+              "title": "Transaction_Processing_1"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fourth-year/Pattern Recognition/Introduction.md",
+                "file": "Fourth-year/Advanced_Database/Transaction_Processing_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introduction"
+              "title": "Backlinks for Transaction_Processing_1"
             }
           },
           {
@@ -165,7 +166,10 @@
   },
   "active": "d2f84a39690f4fad",
   "lastOpenFiles": [
+    "Fourth-year/Advanced_Database/Transaction_Processing_2.md",
+    "Fourth-year/Advanced_Database/Transaction_Processing_1.md",
     "Fourth-year/Compiler-Construction/Context-Free_Grammar.md",
+    "Fourth-year/Advanced_Database",
     "Fourth-year/Compiler-Construction/Important.md",
     "Fourth-year/Distributed_Database/Concurrency Control in Distributed Systems.md",
     "Fourth-year/Compiler-Construction",
@@ -198,8 +202,6 @@
     "Third-year/Sixth-term/Image-Processing/Images",
     "Third-year/Sixth-term/Software-Development/Chapter-5.md",
     "Third-year/Sixth-term/Image-Processing",
-    "Third-year/Sixth-term/Software-Development/Chapter-4.md",
-    "Third-year/Sixth-term/Software-Development/Chapter-3.md",
     "Third-year/Sixth-term/Software-Development/Images/Selecting.png",
     "Third-year/Sixth-term/Software-Development/Images/Parallel.png",
     "Third-year/Sixth-term/Software-Development/Images/Iterative.png",
@@ -208,7 +210,6 @@
     "Third-year/Sixth-term/Software-Development/Images/ROI.png",
     "Third-year/Sixth-term/Software-Development/Images",
     "Third-year/Sixth-term/Software-Development",
-    "Third-year/Sixth-term",
     "Third-year/Fifth-term/Numerical-Analysis/Images/Sub-graph.png",
     "Third-year/Fifth-term/Numerical-Analysis/Images/Mul-graph.png",
     "Third-year/Fifth-term/Numerical-Analysis/Images/L3-Ex3.png"
